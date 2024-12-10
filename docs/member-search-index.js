@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.collections","c":"ListPerformance","l":"ListPerformance()","u":"%3Cinit%3E()"},{"p":"org.collections","c":"ListPerformance","l":"measurePerformance(List<Integer>, Runnable, int)","u":"measurePerformance(java.util.List,java.lang.Runnable,int)"},{"p":"org.collections","c":"ListPerformance","l":"runTests(int)"}];updateSearchResults();
